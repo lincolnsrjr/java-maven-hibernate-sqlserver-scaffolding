@@ -4,9 +4,9 @@ import java.util.List;
 
 import br.com.lincolnsrjr.model.Concessionaria;
 
-public class ConcessinariaRepository extends AbstractRepository<Concessionaria>{
+public class ConcessionariaRepository extends AbstractRepository<Concessionaria>{
 	
-	public ConcessinariaRepository(){
+	public ConcessionariaRepository(){
 		super(Concessionaria.class);
 	}
 		
